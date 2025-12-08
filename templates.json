@@ -28,16 +28,16 @@
       "package_json_hash": "ee669055ac4b256314e404a34a20ff360036e104"
     },
     "react-postgres-fullstack-template": {
-      "package_json_hash": "f01be61a43b5febe46ea9e08a4f855bcfd13a098"
+      "package_json_hash": "1e6deabd3b00379848a951a3cbdd41c808b263ed"
     },
     "react-router-hono-fullstack-template": {
-      "package_json_hash": "8f89bce29a29b0fd651a1886df72c97e1f8904f0"
+      "package_json_hash": "7ea5091d5963b349b27450b649342c15e320b069"
     },
     "react-router-starter-template": {
-      "package_json_hash": "f3268535772e36c58506bf7d8d0efffeeaa5bb89"
+      "package_json_hash": "5c944dbdad595e02c6f7a773f3fe534f344eada5"
     },
     "remix-starter-template": {
-      "package_json_hash": "3e260017801805f14effca488157f59b74ca4cce"
+      "package_json_hash": "ec8bcba9527aed29564809172a7f68fd41edf57c"
     },
     "saas-admin-template": {
       "package_json_hash": "4092d2066f70809b7f99b2a8202a13588c627ebd"
@@ -46,10 +46,10 @@
       "package_json_hash": "8a7632d4d94b6d0f0374685adfea229522c4e2e9"
     },
     "to-do-list-kv-template": {
-      "package_json_hash": "fa076d9f3b21d43285ceaabf4d05491ba611239c"
+      "package_json_hash": "dc57842278cba21e232430525d54cc11b8b2b798"
     },
     "vite-react-template": {
-      "package_json_hash": "d6112553a8a1513780d024d69af6264118de78d4"
+      "package_json_hash": "450d6d74ec627d285462a0e03e4717c200832e44"
     },
     "worker-publisher-template": {
       "package_json_hash": "8f419c2c34127cac33b6fb19b46fda91a2b6fec9"
@@ -76,7 +76,7 @@
       "package_json_hash": "c7470380f80cc1a2e07834c2c75f452d68849ada"
     },
     "react-router-postgres-ssr-template": {
-      "package_json_hash": "9a9fed50b01a788a48efecd832d2d761b3d3cf25"
+      "package_json_hash": "70891f8671c9dc4955d3f21da737e970910e47e9"
     },
     "x402-proxy-template": {
       "package_json_hash": "5f786630dea32450178ac9c92a0ea350f9b75b14"
