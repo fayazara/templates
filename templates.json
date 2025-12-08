@@ -10,13 +10,13 @@
       "package_json_hash": "f324ddb3b661a89936d4561e2cb3d509a8a662dd"
     },
     "durable-chat-template": {
-      "package_json_hash": "eca0142908d19ffcbfb3002d059f41907b689d5d"
+      "package_json_hash": "7a948d01cc9c159bd99646d78b109b9a3c1889b6"
     },
     "llm-chat-app-template": {
       "package_json_hash": "5da431a6fc497e10109422e8ab5234e99e9a02ae"
     },
     "multiplayer-globe-template": {
-      "package_json_hash": "2cf4a36965b26cb227a0336782992dd6bccac601"
+      "package_json_hash": "34a6d050cc169d99fe57aae39ea114019f1f2f47"
     },
     "next-starter-template": {
       "package_json_hash": "1129571c9b54a012b5ccfa806e82477ea8e1ae80"
@@ -37,7 +37,7 @@
       "package_json_hash": "f3268535772e36c58506bf7d8d0efffeeaa5bb89"
     },
     "remix-starter-template": {
-      "package_json_hash": "3e260017801805f14effca488157f59b74ca4cce"
+      "package_json_hash": "ec8bcba9527aed29564809172a7f68fd41edf57c"
     },
     "saas-admin-template": {
       "package_json_hash": "4092d2066f70809b7f99b2a8202a13588c627ebd"
@@ -46,7 +46,7 @@
       "package_json_hash": "8a7632d4d94b6d0f0374685adfea229522c4e2e9"
     },
     "to-do-list-kv-template": {
-      "package_json_hash": "fa076d9f3b21d43285ceaabf4d05491ba611239c"
+      "package_json_hash": "dc57842278cba21e232430525d54cc11b8b2b798"
     },
     "vite-react-template": {
       "package_json_hash": "d6112553a8a1513780d024d69af6264118de78d4"
